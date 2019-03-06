@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/real-time-editor/static/css/main.22435fcb.chunk.css"
   },
   {
-    "revision": "954491df19a77a36af2761395c5ca7ef",
+    "revision": "2c99abfe6d7454182fe27c08bbf785b0",
     "url": "/real-time-editor/index.html"
   }
 ];
